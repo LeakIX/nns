@@ -3,7 +3,7 @@ package nns
 import (
 	"bytes"
 	"errors"
-	"github.com/LeakIX/ntlmssp"
+	"github.com/bodgit/ntlmssp"
 	"net"
 	"time"
 )

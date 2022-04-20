@@ -1,5 +1,5 @@
-github.com/LeakIX/ntlmssp v0.0.0-20220413175023-f070839d32c6 h1:SYX3BMmr6uVc7g9R3thVHc+mRg+N/TBld0gOCJho1pg=
-github.com/LeakIX/ntlmssp v0.0.0-20220413175023-f070839d32c6/go.mod h1:S01xt7qS/BNB6cAu/EnocdjlQYZXnHr4pcdMyO7OZAs=
+github.com/bodgit/ntlmssp v0.0.0-20220420104219-5b2c3446a1e4 h1:9RiYdqGfuhfBiXW5IzsF57uipIS78PmIRWeQslEil1A=
+github.com/bodgit/ntlmssp v0.0.0-20220420104219-5b2c3446a1e4/go.mod h1:6eItJNwu7bz8/W1RlFOYAvBqr0tGUMSHfrow38npeN8=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/hashicorp/go-cleanhttp v0.5.1/go.mod h1:JpRdi6/HCYpAwUzNwuwqhbovhLtngrth3wmdIIUrZ80=
